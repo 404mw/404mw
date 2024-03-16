@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@404mw**
+- 👋 Hi, I’m **Muhammad Waqas**
 - 👀 I’m interested in **Generative AI**
 - 🌱 I’m currently learning **TypeScript**
 - 💞️ I’m looking to collaborate on ...
