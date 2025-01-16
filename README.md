@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Muhammad Waqas**
 - 👀 I’m interested in **Generative AI**
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React and Next.js**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord/**m.w.**
 - 😄 Pronouns: He/Him
