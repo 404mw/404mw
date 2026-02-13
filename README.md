@@ -1,9 +1,25 @@
-- 👋 Hi, I’m **Muhammad Waqas**
-- 👀 I’m interested in **Generative AI**
-- 🌱 I’m currently learning **Python and Agents**
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord/**m.w.**
-- ⚡ Fun fact: ...
+# Muhammad Waqas
+
+Learning Python and exploring Agentic AI. Building systems that automate, reason, and improve over time.
+
+## About Me
+
+I focus on understanding how software actually works. Not just using tools, but breaking them down, rebuilding them, and refining them. My main interest lies in AI driven systems, automation pipelines, and agent based architectures that can operate with minimal supervision.
+
+I am especially curious about how intelligent agents make decisions, how workflows can be orchestrated, and how small tools can compound into powerful systems. I build in public and value transparency, clarity, and long term thinking over shortcuts and hype.
+
+## Current Direction
+
+Right now I am strengthening my Python foundations while designing automation tools and experimenting with agentic AI workflows. The goal is to create practical systems that think, act, and adapt. Each project is a step toward building scalable, autonomous solutions.
+
+## Connect
+
+X: [404mw_](https://x.com/404mw_)  
+LinkedIn: [404mw](https://www.linkedin.com/in/404mw/)  
+Discord: `m.w.`
+
+> Code is leverage. Understanding compounds.
+
 
 <!---
 404mw/404mw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
