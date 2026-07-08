@@ -14,9 +14,9 @@ Right now I am strengthening my Python foundations while designing automation to
 
 ## Connect
 
-X: [404mw_](https://x.com/404mw_)  
+X: [404mw_](https://x.com/_marwix)  
 LinkedIn: [404mw](https://www.linkedin.com/in/404mw/)  
-Discord: `m.w.`
+Discord: [M.W.](https://discord.com/users/503890038829088788)
 
 > Code is leverage. Understanding compounds.
 
