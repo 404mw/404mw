@@ -1,27 +1,46 @@
 # Muhammad Waqas
 
-Learning Python and exploring Agentic AI. Building systems that automate, reason, and improve over time.
+I build the loop, not the prompt. Subagents, tier routing, encoded guardrails.
+Solo developer and operator.
 
-## About Me
+I build AI systems that hold up in production, ship the product around them, and
+run the commercial side alone.
 
-I focus on understanding how software actually works. Not just using tools, but breaking them down, rebuilding them, and refining them. My main interest lies in AI driven systems, automation pipelines, and agent based architectures that can operate with minimal supervision.
+## What I build
 
-I am especially curious about how intelligent agents make decisions, how workflows can be orchestrated, and how small tools can compound into powerful systems. I build in public and value transparency, clarity, and long term thinking over shortcuts and hype.
+**Agentic systems that run unattended.** Multi-agent architectures that keep their
+standard without a human watching, so the work does not degrade the moment you
+look away.
 
-## Current Direction
+**Production software, end to end.** A live platform with a web dashboard serving
+real servers. Backend, frontend, database, deployment. All of it mine.
 
-Right now I am strengthening my Python foundations while designing automation tools and experimenting with agentic AI workflows. The goal is to create practical systems that think, act, and adapt. Each project is a step toward building scalable, autonomous solutions.
+**Systems that take money.** Credit ledger, tiered packages, per-action metering,
+subscription billing, a crypto rail. Built and shipped, not prototyped.
+
+**Domain expertise turned into tooling.** I take a field, distil it, and package it
+into systems that produce the same standard every time.
+
+## See it running
+
+**[exile.marwix.dev](https://exile.marwix.dev)**
+
+Exile is a Discord platform for Idle Heroes servers: game calculators, AI features,
+giveaways, moderation, and spam and raid protection that defends a server on
+autopilot. I built it in March 2026 for a single server. People saw it working and
+asked for it in theirs.
+
+Most of what I write is private. This one you can use today.
+
+## Stack
+
+Python, PostgreSQL, TypeScript. discord.py, asyncpg, Next.js, React, Prisma.
+Deployed and maintained by me.
 
 ## Connect
 
-X: [404mw_](https://x.com/_marwix)  
-LinkedIn: [404mw](https://www.linkedin.com/in/404mw/)  
+X: [@_marwix](https://x.com/_marwix)
+LinkedIn: [404mw](https://www.linkedin.com/in/404mw/)
 Discord: [M.W.](https://discord.com/users/503890038829088788)
 
-> Code is leverage. Understanding compounds.
-
-
-<!---
-404mw/404mw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Code is a commodity. Context is leverage.
