@@ -40,7 +40,7 @@ Deployed and maintained by me.
 ## Connect
 
 X: [@_marwix](https://x.com/_marwix)
-LinkedIn: [404mw](https://www.linkedin.com/in/404mw/)
+LinkedIn: [MARWIX](https://www.linkedin.com/in/marwix/)
 Discord: [M.W.](https://discord.com/users/503890038829088788)
 
 > Code is a commodity. Context is leverage.
