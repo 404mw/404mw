@@ -24,6 +24,8 @@ Your rules are built into the system, not left to the AI.
 
 Python, TypeScript, PostgreSQL, SQLite. Next.js, React, Tailwind. discord.py for Discord bots.
 
+I build with Claude Code: I write the project rules and review the work, AI agents write the code.
+
 ## Connect
 
 - X: [@_marwix](https://x.com/_marwix)
